@@ -9,6 +9,8 @@
             // - FindPersonWithBiggestLoss
             // - FindRichestPerson
             // - FindMostPoorPerson
+            string input = "Hello World!";
+            TextTable.Build(input, 3);
         }
     }
 }
